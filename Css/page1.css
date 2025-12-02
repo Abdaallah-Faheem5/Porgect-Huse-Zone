@@ -5,7 +5,7 @@ body {
 }
 
 .move {
-  animation: moveSection 5s infinite;
+  animation: moveSection 5s alternate;
 }
 
 @keyframes moveSection {
@@ -17,9 +17,7 @@ body {
     transform: translateX(0);
   }
 
-  100% {
-    transform: translateX(-100%);
-  }
+ 
 }
 
 .container {
