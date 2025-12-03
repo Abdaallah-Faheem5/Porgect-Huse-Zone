@@ -1,5 +1,5 @@
 body {
-  background-image: url("/ImG/silver.jpg");
+  background-image: url("../images/silver.jpg");
   margin: 0;
   padding: 0;
 }
@@ -163,61 +163,61 @@ label.cared-toggle-label:hover::after {
 }
 
 #cared-1 .cared-image {
-  background-image: url(/IMG/مكنسة-غبار1.png);
+  background-image: url(../images/مكنسة-غبار1.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-2 .cared-image {
-  background-image: url(/IMG/مكنسة-غبار2.png);
+  background-image: url(../images/مكنسة-غبار2.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-3 .cared-image {
-  background-image: url(/IMG/مكنسة-غبار3.png);
+  background-image: url(../images/مكنسة-غبار3.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-4 .cared-image {
-  background-image: url(/IMG/مكنسة-غبار4.png);
+  background-image: url(../images/مكنسة-غبار4.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-5 .cared-image {
-  background-image: url(/IMG/مكنسة-غبار5.png);
+  background-image: url(../images/مكنسة-غبار5.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-6 .cared-image {
-  background-image: url(/IMG/مكنسة-غبار6.png);
+  background-image: url(../images/مكنسة-غبار6.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-7 .cared-image {
-  background-image: url(/IMG/مكنسة-غبار7.png);
+  background-image: url(../images/مكنسة-غبار7.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-8 .cared-image {
-  background-image: url(/IMG/مكنسة-غبار8.png);
+  background-image: url(../images/مكنسة-غبار8.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-9 .cared-image {
-  background-image: url(/IMG/مكنسة-غسيل1.png);
+  background-image: url(../images/مكنسة-غسيل1.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-10 .cared-image {
-  background-image: url(/IMG/مكنسة-غسيل2.png);
+  background-image: url(../images/مكنسة-غسيل2.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }

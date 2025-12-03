@@ -1,5 +1,5 @@
 body {
-    background-image: url("/IMG/silver.jpg");
+    background-image: url("../images/silver.jpg");
     margin: 0;
     padding: 0;
   }
@@ -163,49 +163,49 @@ body {
   }
   
   #cared-1 .cared-image {
-    background-image: url(/IMG/شاشات-التلفاز1.png);
+    background-image: url(../images/شاشات-التلفاز1.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-2 .cared-image {
-    background-image: url(/IMG/شاشات-التلفاز2.png);
+    background-image: url(../images/شاشات-التلفاز2.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-3 .cared-image {
-    background-image: url(/IMG/شاشات-التلفاز3.png);
+    background-image: url(../images/شاشات-التلفاز3.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-4 .cared-image {
-    background-image: url(/IMG/شاشات-التلفاز4.png);
+    background-image: url(../images/شاشات-التلفاز4.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-5 .cared-image {
-    background-image: url(/IMG/شاشات-التلفاز5.png);
+    background-image: url(../images/شاشات-التلفاز5.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-6 .cared-image {
-    background-image: url(/IMG/شاشات-التلفاز6.png);
+    background-image: url(../images/شاشات-التلفاز6.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-7 .cared-image {
-    background-image: url(/IMG/شاشات-التلفاز7.png);
+    background-image: url(../images/شاشات-التلفاز7.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-8 .cared-image {
-    background-image: url(/IMG/شاشات-التلفاز8.png);
+    background-image: url(../images/شاشات-التلفاز8.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }

@@ -1,5 +1,5 @@
 body {
-    background-image: url("/IMG/silver.jpg");
+    background-image: url("../images/silver.jpg");
     margin: 0;
     padding: 0;
   }
@@ -163,37 +163,37 @@ body {
   }
   
   #cared-1 .cared-image {
-    background-image: url(/IMG/عجانة1.png);
+    background-image: url(../images/عجانة1.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-2 .cared-image {
-    background-image: url(/IMG/عجانة2.png);
+    background-image: url(../images/عجانة2.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-3 .cared-image {
-    background-image: url(/IMG/عجانة3.png);
+    background-image: url(../images/عجانة3.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-4 .cared-image {
-    background-image: url(/IMG/عجانة4.png);
+    background-image: url(../images/عجانة4.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-5 .cared-image {
-    background-image: url(/IMG/عجانة5.png);
+    background-image: url(../images/عجانة5.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-6 .cared-image {
-    background-image: url(/IMG/عجانة6.png);
+    background-image: url(../images/عجانة6.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }

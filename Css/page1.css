@@ -1,5 +1,5 @@
 body {
-  background-image: url("/IMG/silver.jpg");
+  background-image: url("../images/silver.jpg");
   margin: 0;
   padding: 0;
 }
@@ -163,97 +163,97 @@ label.cared-toggle-label:hover::after {
 }
 
 #cared-1 .cared-image {
-  background-image: url(/IMG/صوبة-غاز1.png);
+  background-image: url(../images/صوبة-غاز1.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-2 .cared-image {
-  background-image: url(/IMG/صوبة-غاز2.png);
+  background-image: url(../images/صوبة-غاز2.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-3 .cared-image {
-  background-image: url(/IMG/صوبة-غاز3.png);
+  background-image: url(../images/صوبة-غاز3.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-4 .cared-image {
-  background-image: url(/IMG/صوبة-غاز4.png);
+  background-image: url(../images/صوبة-غاز4.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-5 .cared-image {
-  background-image: url(/IMG/صوبة-غاز5.png);
+  background-image: url(../images/صوبة-غاز5.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-6 .cared-image {
-  background-image: url(/IMG/صوبة-غاز6.png);
+  background-image: url(../images/صوبة-غاز6.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-7 .cared-image {
-  background-image: url(/IMG/صوبة-كاز1.png);
+  background-image: url(../images/صوبة-كاز1.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-8 .cared-image {
-  background-image: url(/IMG/صوبة-كاز2.png);
+  background-image: url(../images/صوبة-كاز2.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-9 .cared-image {
-  background-image: url(/IMG/صوبة-كاز3.png);
+  background-image: url(../images/صوبة-كاز3.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-10 .cared-image {
-  background-image: url(/IMG/صوبة-كاز4.png);
+  background-image: url(../images/صوبة-كاز4.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-11 .cared-image {
-  background-image: url(/IMG/صوبة-كاز5.png);
+  background-image: url(../images/صوبة-كاز5.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-12 .cared-image {
-  background-image: url(/IMG/صوبة-كاز6.png);
+  background-image: url(../images/صوبة-كاز6.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-13 .cared-image {
-  background-image: url(/IMG/صوبة-كاز7.png);
+  background-image: url(../images/صوبة-كاز7.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-15 .cared-image {
-  background-image: url(/IMG/صوبة-كهرباء1.png);
+  background-image: url(../images/صوبة-كهرباء1.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-16 .cared-image {
-  background-image: url(/IMG/صوبة-كهرباء2.png);
+  background-image: url(../images/صوبة-كهرباء2.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-17 .cared-image {
-  background-image: url(/IMG/صوبة-كهرباء3.png);
+  background-image: url(../images/صوبة-كهرباء3.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }

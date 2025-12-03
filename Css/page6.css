@@ -1,5 +1,5 @@
 body {
-    background-image: url("/IMG/silver.jpg");
+    background-image: url("../images/silver.jpg");
     margin: 0;
     padding: 0;
   }
@@ -163,49 +163,49 @@ body {
   }
   
   #cared-1 .cared-image {
-    background-image: url(/IMG/مكــواة1.png);
+    background-image: url(../images/مكــواة1.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-2 .cared-image {
-    background-image: url(/IMG/مكــواة2.png);
+    background-image: url(../images/مكــواة2.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-3 .cared-image {
-    background-image: url(/IMG/مكــواة3.png);
+    background-image: url(../images/مكــواة3.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-4 .cared-image {
-    background-image: url(/IMG/مكــواة4.png);
+    background-image: url(../images/مكــواة4.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-5 .cared-image {
-    background-image: url(/IMG/مكــواة5.png);
+    background-image: url(../images/مكــواة5.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-6 .cared-image {
-    background-image: url(/IMG/مكــواة6.png);
+    background-image: url(../images/مكــواة6.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-7 .cared-image {
-    background-image: url(/IMG/مكــواة7.png);
+    background-image: url(../images/مكــواة7.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }
   
   #cared-8 .cared-image {
-    background-image: url(/IMG/مكــواة8.png);
+    background-image: url(../images/مكــواة8.png);
     background-repeat: no-repeat;
     background-size: 400px;
   }

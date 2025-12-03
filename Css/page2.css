@@ -1,5 +1,5 @@
 body {
-  background-image: url("/IMG/silver.jpg");
+  background-image: url("../images/silver.jpg");
   margin: 0;
   padding: 0;
 }
@@ -163,49 +163,49 @@ label.cared-toggle-label:hover::after {
 }
 
 #cared-1 .cared-image {
-  background-image: url(/IMG/مطحنة-بهارات1.png);
+  background-image: url(../images/مطحنة-بهارات1.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-2 .cared-image {
-  background-image: url(/IMG/مطحنة-بهارات1.png);
+  background-image: url(../images/مطحنة-بهارات1.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-3 .cared-image {
-  background-image: url(/IMG/مطحنة-بهارات3.png);
+  background-image: url(../images/مطحنة-بهارات3.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-4 .cared-image {
-  background-image: url(/IMG/مطحنة-بهارات4.png);
+  background-image: url(../images/مطحنة-بهارات4.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-5 .cared-image {
-  background-image: url(/IMG/مطحنة-بهارات5.png);
+  background-image: url(../images/مطحنة-بهارات5.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-6 .cared-image {
-  background-image: url(/IMG/مطحنة-بهارات5.png);
+  background-image: url(../images/مطحنة-بهارات5.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-7 .cared-image {
-  background-image: url(/IMG/مطحنة-بهارات7.png);
+  background-image: url(../images/مطحنة-بهارات7.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
 
 #cared-8 .cared-image {
-  background-image: url(/IMG/مطحنة-بهارات7.png);
+  background-image: url(../images/مطحنة-بهارات7.png);
   background-repeat: no-repeat;
   background-size: 400px;
 }
